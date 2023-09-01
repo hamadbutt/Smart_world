@@ -1,0 +1,7 @@
+<suite name="MVC">
+	<test name="testngTest">
+		<classes>
+			<class name="MVC.FirstClass" />
+		</classes>
+	</test>
+</suite>
